@@ -3,3 +3,9 @@ tests/node_modules/
 dist/
 .DS_Store
 .env
+tests/cypress/screenshots/
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+/.claude
+/docs

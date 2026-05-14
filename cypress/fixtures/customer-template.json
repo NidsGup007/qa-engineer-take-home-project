@@ -1,0 +1,11 @@
+{
+  "firstName": "John",
+  "lastName": "Appleseed",
+  "email": "johnappleseed@vistarmedia.com",
+  "addressLine1": "400 Market St",
+  "addressLine2": "Suite 825",
+  "city": "Philadelphia",
+  "state": "PA",
+  "zip": "19106",
+  "notes": "This is a sample note."
+}
